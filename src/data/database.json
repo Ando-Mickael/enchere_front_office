@@ -1,0 +1,81 @@
+{
+  "encheres": [
+    {
+      "id": 1,
+      "nom": "Clavier mecanique",
+      "categorie": "Informatique",
+      "dateDebut": "2022-01-01 01:00:00",
+      "duree": "2h",
+      "prix": 15000,
+      "proprietaire": "Rakoto"
+    },
+    {
+      "id": 2,
+      "nom": "Clavier",
+      "categorie": "Informatique",
+      "dateDebut": "2022-01-01 01:00:00",
+      "duree": "2h",
+      "prix": 15000,
+      "proprietaire": "Rakoto"
+    },
+    {
+      "id": 3,
+      "nom": "Clavier",
+      "categorie": "Informatique",
+      "dateDebut": "2022-01-01 01:00:00",
+      "duree": "2h",
+      "prix": 15000,
+      "proprietaire": "Rakoto"
+    },
+    {
+      "id": 4,
+      "nom": "Clavier",
+      "categorie": "Informatique",
+      "dateDebut": "2022-01-01 01:00:00",
+      "duree": "2h",
+      "prix": 15000,
+      "proprietaire": "Rakoto"
+    },
+    {
+      "id": 5,
+      "nom": "Clavier",
+      "categorie": "Informatique",
+      "dateDebut": "2022-01-01 01:00:00",
+      "duree": "2h",
+      "prix": 15000,
+      "proprietaire": "Rakoto"
+    },
+    {
+      "id": 6,
+      "nom": "Clavier",
+      "categorie": "Informatique",
+      "dateDebut": "2022-01-01 01:00:00",
+      "duree": "2h",
+      "prix": 15000,
+      "proprietaire": "Rakoto"
+    }
+  ],
+  "personnes": [
+    {
+      "id": 1,
+      "nom": "Ando Mickael",
+      "pseudo": "ando__mickael",
+      "email": "ando@gmail.com",
+      "mdp": "ando"
+    },
+    {
+      "id": 2,
+      "nom": "Jean Charles",
+      "pseudo": "jean__charles",
+      "email": "jean@gmail.com",
+      "mdp": "jean"
+    },
+    {
+      "id": 3,
+      "nom": "Jeanne Marie",
+      "pseudo": "jeanne__marie",
+      "email": "jeanne@gmail.com",
+      "mdp": "jeanne"
+    }
+  ]
+}
